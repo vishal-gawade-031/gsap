@@ -15,7 +15,7 @@ console.log("vishal");
 gsap.from(
     ".box",
     {
-        x:500,
+        x:1000,
         y:500,
         // duration:1,
         // delay:1,
